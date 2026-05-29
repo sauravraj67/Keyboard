@@ -1,8 +1,8 @@
-Index,Quantity,Part Number,Manufacturer Part Number,Description,Available,Unit Price,Extended Price USD,Link
+Index,Quantity,Part Number,Manufacturer Part Number,Description,Quantity,Unit Price,Extended Price USD,Link
 1,2 (pack of 30),,Mechanical Keyboard Switches,,2,5.36,10.62,https://www.amazon.in/gp/product/B0G39H2G4H/ref=sw_img_1?smid=ANH0PBBCLPM1Q&psc=1
 2,1,,Meckey shipping,,1,1.07,1.07,meckeys.com
-3,1,2648-SC0917-ND,SC0917,,1,6.45,6.45,https://ww.amazon.in/gp/product/B08WPNM7JB/ref=sw_img_1?smid=AJ6SIZC8YQDZX&th=1
-4,1,Keycaps Set,, Keycap Set,19.34,,19.34,https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/baron-keycap-set/
+3,1,,SC0917,Raspberry Pi,1,5.79,5.79,amazon.in/gp/product/B0B69KZBD8/ref=ewc_pr_img_1?smid=AJ6SIZC8YQDZX&psc=1
+4,1,Keycaps Set,, Keycap Set,1,10.73,10.73,https://www.amazon.in/gp/product/B0GFNPXVJL/ref=ewc_pr_img_1?smid=A3S55Z3ML7GNN5&psc=1
 5,1,Stabilizer,1,1,,10.74,10.74,https://meckeys.com/shop/accessories/keyboard-accessories/more/glorious-goat-stabilizers/
 6,7 (pack of 10),Hot Swap,,7,,0.77,5.41,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/?attribute_pa_variations=white
 7,1,PCB + Shipping,JLCPCB,PCB fabrication and shipping,1,35.98,35.98,https://jlcpcb.com
