@@ -26,20 +26,28 @@ I am making a custom keyboard for myself , it is based on 60% keyboard layout . 
 
 
 
-- ## Bill of Materials (BOM)
+# Bill of Materials (BOM)
 
-| # | Item | Description | Quantity | Unit Price (USD) | Total (USD) | Link |
-|---|------|-------------|----------|------------------|-------------|------|
-| 1 | HMX Xinhai Switch | Mechanical keyboard switches | 7 (pack of 10) | 3.15 | 22.01 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/hmx-xinhai-switch/?attribute_pa_key-switches=hmx-xinhai-45g |
-| 2 | Meckeys Shipping | Shipping cost | 1 | 1.07 | 1.07 | https://meckeys.com |
-| 3 | Raspberry Pi Pico W | RP2040 microcontroller board | 1 | 6.45 | 6.45 | https://www.amazon.in/gp/product/B08WPNM7JB/ref=sw_img_1?smid=AJ6SIZC8YQDZX&th=1 |
-| 4 | Keycap Set (Baron) | Full keycap set | 1 | 19.34 | 19.34 | https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/baron-keycap-set/ |
-| 5 | Glorious GOAT Stabilizers | Keyboard stabilizers | 1 | 10.74 | 10.74 | https://meckeys.com/shop/accessories/keyboard-accessories/more/glorious-goat-stabilizers/ |
-| 6 | Kailh Hot Swap Socket | Hot-swap sockets (pack of 10) | 7 (pack of 10) | 0.77 | 5.41 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/?attribute_pa_variations=white |
-| 7 | PCB + 3D Print + Shipping | PCB fabrication service | 1 | 70.92 | 70.29 | https://jlcpcb.com |
-| 8 | Rotary Encoder | Encoder module (pack of 2) | 1 | 1.90 | 1.90 | https://amazon.in/gp/product/B0787CN57Y/ref=sw_img_1?smid=AJ6SIZC8YQDZX&psc=1 |
+| Index | Component | Qty | Cost (USD) | Link |
+|---|---|---|---|---|
+| 1 | Mechanical Keyboard Switches | 2 packs | $10.62 | https://www.amazon.in/gp/product/B0G39H2G4H |
+| 2 | Meckeys Shipping | 1 | $1.07 | https://meckeys.com |
+| 3 | Raspberry Pi Pico SC0917 | 1 | $5.79 | https://www.amazon.in/gp/product/B0B69KZBD8 |
+| 4 | Keycap Set | 1 | $10.73 | https://www.amazon.in/gp/product/B0GFNPXVJL |
+| 5 | Stabilizers | 1 | $10.74 | https://meckeys.com/shop/accessories/keyboard-accessories/more/glorious-goat-stabilizers/ |
+| 6 | Kailh Hot Swap Sockets | 7 packs | $5.41 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/ |
+| 7 | PCB + Shipping (JLCPCB) | 1 | $35.98 | https://jlcpcb.com |
+| 8 | Rotary Encoder | 1 pack | $1.84 | https://www.amazon.in/gp/product/B0888RWNM1 |
+| 9 | Headset / Connector | 1 | $0.79 | https://www.amazon.in/gp/product/B0BB86CQSJ |
+| 10 | M3 Screws | 1 | $2.20 | https://www.amazon.in/dp/B07XFP714Z |
+| 11 | 3D Printed Case | 1 | $5.00 | Made by Cookie With Coffee from #printing-legion |
 
-**Estimated Total Hardware Cost:** **USD 137.21**
+---
+
+## Total Estimated Cost
+
+# ~$89.17 USD
+
 
 ## Hardware
 - Raspberry Pico 
