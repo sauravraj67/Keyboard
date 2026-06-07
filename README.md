@@ -40,13 +40,13 @@ I am making a custom keyboard for myself , it is based on 60% keyboard layout . 
 | 8 | Rotary Encoder | 1 pack | $1.84 | https://www.amazon.in/gp/product/B0888RWNM1 |
 | 9 | Headset / Connector | 1 | $0.79 | https://www.amazon.in/gp/product/B0BB86CQSJ |
 | 10 | M3 Screws | 1 | $2.20 | https://www.amazon.in/dp/B07XFP714Z |
-| 11 | 3D Printed Case | 1 | $5.00 | Made by Cookie With Coffee from #printing-legion |
+| 11 | 3D Printed Case | 1 | 0 | Made by Cookie With Coffee from #printing-legion |
 
 ---
 
 ## Total Estimated Cost
 
-# ~$89.17 USD
+# ~$84.17 USD
 
 
 ## Hardware
