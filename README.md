@@ -35,7 +35,25 @@ I started with routing the Diodes to the swich first then after that I routed th
   <img width="1021" height="372" alt="Screenshot 2026-05-13 075501" src="https://github.com/user-attachments/assets/4870e2e6-a34d-47d2-9306-f980d9e94c30" />
 <br>
 
-### 3D Design
+### Made the case 
+
+Hours worked :-  3.75 Hours 
+
+So I Firstly took the dimensions of the PCB and moved to fusion for the case design firstly i started with designing the Base for that I created sketch for the base added a base height of 3mm and then moved to calculate the PCB height which will be 4.6mm (3mm for hot swap and 1.6 mm for PCB) and i added .4 mm of free space and modeled the base. Base width was 10mm less by each side in inner meserement so that the PCB can fix into in. Sketch 
+
+<img width="1296" height="492" alt="Screenshot 2026-07-01 092745" src="https://github.com/user-attachments/assets/186ce661-f23d-4bc1-bc6c-d6b2c8040579" />
+
+BASE <img width="1322" height="360" alt="Screenshot 2026-07-01 092849" src="https://github.com/user-attachments/assets/0be04212-6b29-4f29-8c46-96faa61e5479" />
+
+Then I updated the schematics with exact PCB dimensions so that PCB alight perfectly with the base and added holes for the screws onto it. Prior to that i extrude the base so that to fix the above components of the pcb in the base (distance from top of PCB to mid of key switch is 5mm) Top layer would be 1.1mm so i extruded 3.9mm because few components were not fitting in the Base such as the USB-B type<img width="1386" height="372" alt="Screenshot 2026-07-01 092929" src="https://github.com/user-attachments/assets/97834fff-abff-4540-a0c5-89fa5c10f31e" />
+
+
+Then I added a hole for the USB type connection and polished the Base By curing it's side
+<img width="1357" height="491" alt="Screenshot 2026-07-01 093009" src="https://github.com/user-attachments/assets/a1ac8c4d-998e-422e-bb3e-1bf9c96b0943" />
+
+
+After that i stated with making the Top layer i added the keyboard layout sketches and aligned it perfectly to the keys and made the top layer by adding them and added holes for the rotor encoder .First i thought just to add a small circular hole for the top but later i found that it would not fix well as come part of rotor encoder base was colliding with the top so i made square holes for it  . Final Look 
+
 <img width="806" height="355" alt="Screenshot 2026-05-15 224021" src="https://github.com/user-attachments/assets/f666dcde-871e-44b2-b4c1-6bc68a73ef1f" />
 <img width="1133" height="488" alt="Screenshot 2026-05-15 224000" src="https://github.com/user-attachments/assets/ae80e940-c619-48f8-ab78-62e31a89b46d" />
 <img width="1229" height="610" alt="Screenshot 2026-05-15 223839" src="https://github.com/user-attachments/assets/979a7000-aa4b-4279-85d5-8dda375dccbc" />
