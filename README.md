@@ -37,7 +37,7 @@ I started with routing the Diodes to the swich first then after that I routed th
 
 ### Made the case 
 
-Hours worked :-  4.25 Hours 
+Hours worked :-  4.25 Hours  
 
 So I Firstly took the dimensions of the PCB and moved to fusion for the case design firstly i started with designing the Base for that I created sketch for the base added a base height of 3mm and then moved to calculate the PCB height which will be 4.6mm (3mm for hot swap and 1.6 mm for PCB) and i added .4 mm of free space and modeled the base. Base width was 10mm less by each side in inner meserement so that the PCB can fix into in. Sketch 
 
