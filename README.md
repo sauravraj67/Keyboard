@@ -7,7 +7,7 @@ I am making a custom keyboard for myself , it is based on 60% keyboard layout . 
 - Has 60% Keyboard Matrix
 - Has 2 Rotor Encoder For voulem and brigtness controll 
   ### Schematic
-   HOURS Worked :- 4.2 hours  <br>
+   HOURS Worked :- 5.2 hours  <br>
 So i firstly thought what would be the features of my keyboard . It is a simple mechanical keyboard in 60% layout that uses keyboard matrix so that it uses less gpio pins and diodes are used to preventing ghosting. and i will also use hot-swap so that if i want i can change the keys without soldering or de soldering. Prior to that it will has 2 rotor encoders to control the volume and brightness.
 
 So firstly i imported all the footprints and layout of components which would be used.
@@ -22,7 +22,7 @@ The most time consuming part was to make the matrix because firstly you have to 
   ###  PCB Design  
   
    ## PCB Layout   
-     HOURS Worked :- 2.5 Hours  <br>
+     HOURS Worked :- 3.5 Hours  <br>
    So i loaded the pcb with all the components again the hardest and most time consuming part was re arranging the keyboard matrix. First i added the satirizers to there responded key size , then i started arranging all the keys as per my layout at 19.05 mm and 0.7937mm grid so that the keys could easy snap with each other but many a times i had difficulties doing so , then i used different sized grides for that after i arranged all the keys then i started with arrangement of the resistors as per there connected switches in such a way that it would turn out to be a ease to me while i rout. Final look
 
    <img width="1151" height="406" alt="Screenshot 2026-07-01 091626" src="https://github.com/user-attachments/assets/f0621a56-d0e1-4991-8723-fd4f8d142b87" />
@@ -37,7 +37,7 @@ I started with routing the Diodes to the swich first then after that I routed th
 
 ### Made the case 
 
-Hours worked :-  3.75 Hours 
+Hours worked :-  4.25 Hours 
 
 So I Firstly took the dimensions of the PCB and moved to fusion for the case design firstly i started with designing the Base for that I created sketch for the base added a base height of 3mm and then moved to calculate the PCB height which will be 4.6mm (3mm for hot swap and 1.6 mm for PCB) and i added .4 mm of free space and modeled the base. Base width was 10mm less by each side in inner meserement so that the PCB can fix into in. Sketch 
 
