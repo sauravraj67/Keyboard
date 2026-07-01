@@ -22,7 +22,7 @@ The most time consuming part was to make the matrix because firstly you have to 
   ###  PCB Design  
   
    ## PCB Layout   
-    <br> HOURS Worked :- 2.5 Hours  <br>
+     HOURS Worked :- 2.5 Hours  <br>
    So i loaded the pcb with all the components again the hardest and most time consuming part was re arranging the keyboard matrix. First i added the satirizers to there responded key size , then i started arranging all the keys as per my layout at 19.05 mm and 0.7937mm grid so that the keys could easy snap with each other but many a times i had difficulties doing so , then i used different sized grides for that after i arranged all the keys then i started with arrangement of the resistors as per there connected switches in such a way that it would turn out to be a ease to me while i rout. Final look
 
    <img width="1151" height="406" alt="Screenshot 2026-07-01 091626" src="https://github.com/user-attachments/assets/f0621a56-d0e1-4991-8723-fd4f8d142b87" />
