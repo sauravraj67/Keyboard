@@ -7,7 +7,7 @@ I am making a custom keyboard for myself , it is based on 60% keyboard layout . 
 - Has 60% Keyboard Matrix
 - Has 2 Rotor Encoder For voulem and brigtness controll 
   ### Schematic
-  <br>  HOURS Worked :- 4.2 hours  <br>
+   HOURS Worked :- 4.2 hours  <br>
 So i firstly thought what would be the features of my keyboard . It is a simple mechanical keyboard in 60% layout that uses keyboard matrix so that it uses less gpio pins and diodes are used to preventing ghosting. and i will also use hot-swap so that if i want i can change the keys without soldering or de soldering. Prior to that it will has 2 rotor encoders to control the volume and brightness.
 
 So firstly i imported all the footprints and layout of components which would be used.
@@ -28,7 +28,7 @@ The most time consuming part was to make the matrix because firstly you have to 
    <img width="1151" height="406" alt="Screenshot 2026-07-01 091626" src="https://github.com/user-attachments/assets/f0621a56-d0e1-4991-8723-fd4f8d142b87" />
 
  ## Routing    
-<br> Hours Worked :- 3.1 <br>
+ Hours Worked :- 3.1 <br>
 
 I started with routing the Diodes to the swich first then after that I routed the Rows and columns and then connected it to the MCU after which I made the connections for the Rotor encoders as well . I tried to make as clean routs as possible and used both side of the PCB to rout. Somethimes there wasn;t a way to rout so I had to make some changes onto the previous rout and this ishow the final PCB looks 
    
